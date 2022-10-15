@@ -1,3 +1,3 @@
 # Test
-crash course
+All medlemmer skriv inn her
 fritekst
